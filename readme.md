@@ -1,1 +1,0 @@
-Hello,This is my first github file using terraform.And the file is successfully created.
